@@ -1,12 +1,12 @@
 {
   "name": "atom-wrap-in-tag",
   "main": "./lib/atom-wrap-in-tag",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "Wrap the selection in an HTML tag",
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "atom-wrap-in-tag:toggle"
+    "atom-editor": "atom-wrap-in-tag:wrap"
   },
   "repository": "https://github.com/atom/atom-wrap-in-tag",
   "license": "MIT",
