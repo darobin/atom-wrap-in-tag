@@ -6,8 +6,9 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-editor": "atom-wrap-in-tag:wrap"
+    "atom-text-editor": "wrap-in-tag:wrap"
   },
+  "activationHooks": ["language-html:grammar-used"],
   "repository": "https://github.com/atom/atom-wrap-in-tag",
   "license": "MIT",
   "engines": {
