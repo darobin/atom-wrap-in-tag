@@ -1,0 +1,18 @@
+{
+  "name": "atom-wrap-in-tag",
+  "main": "./lib/atom-wrap-in-tag",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-wrap-in-tag:toggle"
+  },
+  "repository": "https://github.com/atom/atom-wrap-in-tag",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
